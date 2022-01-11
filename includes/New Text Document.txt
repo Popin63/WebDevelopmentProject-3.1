@@ -1,0 +1,25 @@
+https://gradienthunt.com/gradient/9071
+
+https://uigradients.com/#Socialive
+
+https://uigradients.com/#Telegram
+
+https://uigradients.com/#Scooter
+
+https://uigradients.com/#Alive
+
+https://uigradients.com/#Sunkist
+
+https://uigradients.com/#Orca
+
+
+light blue 
+custom background: #214569;
+	background: -webkit-linear-gradient(to right, #214569, #4398f0);
+	background: linear-gradient(to right, #214569, #4398f0);
+
+
+https://uigradients.com/#DarkOcean
+
+
+https://uigradients.com/#SlightOceanView
